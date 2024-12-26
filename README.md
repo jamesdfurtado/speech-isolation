@@ -2,6 +2,6 @@
 
 This project is finished but still being greatly improved.
 
-Many files are currently not included, as a lightweight UI is being worked on for users to easily use the program.
+Several files are not yet included because a UI is in development for users to interact with the model.
 
 Stay in tune!

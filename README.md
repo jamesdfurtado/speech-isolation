@@ -1,4 +1,7 @@
 # Speech Isolation Application
 
-This project is finished but still being improved. The model is not included as it exceeds 100MB size
-Soon, a lightweight program will be uploaded, containing a UI to import audio files and run the model.
+This project is finished but still being greatly improved.
+
+Many files are currently not included, as a lightweight UI is being worked on for users to easily use the program.
+
+Stay in tune!
